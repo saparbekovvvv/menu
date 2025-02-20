@@ -1,6 +1,6 @@
 import React from 'react'
 import { useNavigate } from 'react-router-dom';
-import lemonads from "../images/лимонады 1.png"
+import lemonads from "../images/лимонады 1 (1).png"
 
 function Lemonads() {
   const Navigate = useNavigate();
